@@ -27,10 +27,10 @@ const classes = {
         Equine: 45,
         'Small Mammal': 10,
         Bug: 1,
-        Amphibia: 40,
+        Amphibian: 40,
         'Farm Animal': 50,
         Exotic: 35,
-        Plant: 30
+        Plant: 30,
     },
     Cleric: {
         Dog: 76,
@@ -41,10 +41,10 @@ const classes = {
         Equine: 86,
         'Small Mammal': 51,
         Bug: 40,
-        Amphibia: 77,
+        Amphibian: 77,
         'Farm Animal': 88,
         Exotic: 83,
-        Plant: 68
+        Plant: 68,
     },
     Paladin: {
         Dog: 116,
@@ -55,10 +55,10 @@ const classes = {
         Equine: 126,
         'Small Mammal': 91,
         Bug: 77,
-        Amphibia: 114,
+        Amphibian: 114,
         'Farm Animal': 126,
         Exotic: 130,
-        Plant: 106
+        Plant: 106,
     },
     Ranger: {
         Dog: 156,
@@ -69,10 +69,10 @@ const classes = {
         Equine: 166,
         'Small Mammal': 131,
         Bug: 115,
-        Amphibia: 150,
+        Amphibian: 150,
         'Farm Animal': 163,
         Exotic: 177,
-        Plant: 143
+        Plant: 143,
     },
     Barbarian: {
         Dog: 196,
@@ -83,10 +83,10 @@ const classes = {
         Equine: 206,
         'Small Mammal': 171,
         Bug: 152,
-        Amphibia: 187,
+        Amphibian: 187,
         'Farm Animal': 201,
         Exotic: 224,
-        Plant: 181
+        Plant: 181,
     },
 };
 
