@@ -1,0 +1,23 @@
+{
+  "name": "pet-hp-calculator",
+  "private": true,
+  "description": "Calculate your pet's HP based on Polygon/bdg's formula",
+  "scripts": {
+    "dev": "npm run development",
+    "development": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
+    "watch": "npm run development -- --watch",
+    "hot": "cross-env NODE_ENV=development node_modules/webpack-dev-server/bin/webpack-dev-server.js --inline --hot --config=node_modules/laravel-mix/setup/webpack.config.js",
+    "prod": "npm run production",
+    "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --no-progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alanaktion/pet-hp-calculator.git"
+  },
+  "author": "Alan Hardman <alan@phpizza.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alanaktion/pet-hp-calculator/issues"
+  },
+  "homepage": "https://alanaktion.github.io/pet-hp-calculator/"
+}
