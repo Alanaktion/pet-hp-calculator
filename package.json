@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/Alanaktion/pet-hp-calculator/issues"
   },
-  "homepage": "https://alanaktion.github.io/pet-hp-calculator/"
+  "homepage": "https://alanaktion.github.io/pet-hp-calculator/",
+  "devDependencies": {
+    "cross-env": "^5.2.1",
+    "laravel-mix": "^4.1.4",
+    "tailwindcss": "^1.1.2",
+    "vue": "^2.6.10",
+    "vue-template-compiler": "^2.6.10"
+  }
 }
