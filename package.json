@@ -23,6 +23,7 @@
   "devDependencies": {
     "cross-env": "^5.2.1",
     "laravel-mix": "^4.1.4",
+    "lodash": "^4.17.15",
     "tailwindcss": "^1.1.2",
     "vue": "^2.6.10",
     "vue-template-compiler": "^2.6.10"
